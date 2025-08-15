@@ -1,0 +1,52 @@
+# Large model files
+models/pipeline/safety_checker/
+models/pipeline/text_encoder/
+models/pipeline/vae/
+models/pipeline/*.safetensors
+models/pipeline/*.bin
+models/pipeline/*.ckpt
+
+# LoRA models (can be regenerated)
+models/lora/
+leonardo_dicaprio_lora/
+
+# Generated outputs
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# Dataset images (too large for git)
+dataset/images/
+Leonardo DiCaprio/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp 
