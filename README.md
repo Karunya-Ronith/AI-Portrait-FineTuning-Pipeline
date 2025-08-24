@@ -4,7 +4,7 @@ A complete end-to-end project for fine-tuning Stable Diffusion 1.5 with LoRA to 
 
 ## Model on Hugging Face
 
-**Try the model online**: [Leonardo DiCaprio LoRA Model](https://huggingface.co/Karunya-Ronith/leonardo_dicaprio_lora)
+**Try the model online**: [Leonardo DiCaprio LoRA Model](https://huggingface.co/KarunyaRonith29/leonardo_dicaprio_lora)
 
 The trained LoRA model is available on Hugging Face for easy integration and testing.
 
